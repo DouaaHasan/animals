@@ -1,3 +1,5 @@
 lion
 tiger
 eliphant
+giraffe
+monkey
